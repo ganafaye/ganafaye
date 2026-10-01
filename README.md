@@ -19,30 +19,6 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<br>
-
-<!-- ================= SÉPARATEUR ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
-
-<!-- ================= SECTION 2 : À PROPOS DE MOI ================= -->
-<h2 align="center">À Propos de Moi</h2>
-
-<br>
-
-<p align="center">
-  Étudiant en <b>Master Système d'Information</b>, passionné et créatif, je recherche constamment de nouveaux défis pour mettre en œuvre mes compétences techniques et ma vision innovante dans la création et maintenance des systèmes d'informations modernes et performants.
-</p>
-
-<br>
-
-<div align="center">
-
-> *"La meilleure façon de prédire l'avenir, c'est de le créer."*
-> — **Peter Drucker**
-
-</div>
-
 <br>
 
 <!-- ================= SÉPARATEUR ================= -->
@@ -183,20 +159,17 @@
 <!-- ================= SÉPARATEUR ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
 
-<!-- ================= SECTION 5 : PROJET PHARE ================= -->
-<h2 align="center">Projet Phare</h2>
-
-<br>
+<!-- ================= PROFIL ================= -->
 
 <div align="center">
 
-**Plateforme Medicare**
+<h1>Gana Faye</h1>
 
-Plateforme de suivi des patientes dans les cliniques gynéco-obstétrique.
+<h3>Software Engineer & Architecte SI</h3>
 
-<a href="http://medicare.byethost5.com" target="_blank">
-  <img src="https://img.shields.io/badge/Voir_la_plateforme-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<p> <strong>Développement Full-Stack · Intelligence Artificielle · Data · Cloud & DevOps</strong> </p>
+<p>Passionné par la création de solutions technologiques robustes et innovantes, de l'architecture système au déploiement.</p>
+
 
 </div>
 
@@ -208,14 +181,7 @@ Plateforme de suivi des patientes dans les cliniques gynéco-obstétrique.
 <!-- ================= SECTION 6 : FOOTER ================= -->
 <br>
 
-<h2 align="center">Citation</h2>
-
-<br>
-
 <div align="center">
-
-> *"La meilleure façon de prédire l'avenir, c'est de le créer."*
-> — **Peter Drucker**
 
 <br>
 
