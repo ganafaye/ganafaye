@@ -137,7 +137,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganafaye&show_icons=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&hide_border=true" height="180" alt="Stats GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganafaye&theme=react&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="Streak" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganafaye&layout=compact&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true" height="180" alt="Top Langages" />
 </div>
@@ -145,7 +145,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganafaye&theme=react&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="Streak" />
+  
 </div>
 
 <br>
@@ -165,14 +165,25 @@
 
 <h1>Gana Faye</h1>
 
-<h3>Software Engineer & Architecte SI</h3>
+<!-- Sous-titre clair -->
+<p><em>Software Engineer & Architecte SI</em></p>
 
-<p> <strong>Développement Full-Stack · Intelligence Artificielle · Data · Cloud & DevOps</strong> </p>
-<p>Passionné par la création de solutions technologiques robustes et innovantes, de l'architecture système au déploiement.</p>
-
-
+<!-- Zone des domaines clés (Utilisation de badges Shields.io pour un look moderne) -->
+<div style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Full_Stack-00599C?style=flat&logo=react&logoColor=61DAFB" alt="Full Stack">
+  <img src="https://img.shields.io/badge/AI_&_Data-4B8BBE?style=flat&logo=python&logoColor=FFD43B" alt="AI & Data">
+  <img src="https://img.shields.io/badge/Cloud_&_DevOps-2496ED?style=flat&logo=docker&logoColor=white" alt="Cloud & DevOps">
+  <img src="https://img.shields.io/badge/Architecture-E34F26?style=flat&logo=apache-kafka&logoColor=white" alt="Architecture">
 </div>
 
+<!-- Description centrée et légèrement stylisée -->
+<div align="center" style="max-width: 600px; margin: auto; font-size: 1.1em; line-height: 1.6;">
+<p>
+Passionné par la conception et le développement de solutions logicielles robustes et innovantes. 
+Mon expertise couvre l'ensemble du cycle de vie du produit, de l'architecture système au déploiement continu, avec un focus particulier sur l'intelligence artificielle et les architectures distribuées.
+</p>
+</div>
+</div>
 <br>
 
 <!-- ================= SÉPARATEUR ================= -->
@@ -188,15 +199,12 @@
 **Merci de votre visite !**
 
 N'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration.
-
 <br>
 
 [![Visiteurs](https://komarev.com/ghpvc/?username=ganafaye&color=58A6FF&style=for-the-badge&label=VISITEURS+DU+PROFIL)](https://github.com/ganafaye)
 
 </div>
-
 <br>
-
 <!-- ================= BANNIÈRE DE FIN ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" />
