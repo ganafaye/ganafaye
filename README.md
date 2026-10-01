@@ -22,14 +22,11 @@
 
 <br>
 
+<!-- ================= SÉPARATEUR ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
+
 <!-- ================= SECTION 2 : À PROPOS DE MOI ================= -->
 <h2 align="center">À Propos de Moi</h2>
-
-<br>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/QUI_SUIS--JE-%232C5364?style=for-the-badge&labelColor=0D1117" alt="Qui suis-je" />
-</h3>
 
 <br>
 
@@ -48,6 +45,9 @@
 
 <br>
 
+<!-- ================= SÉPARATEUR ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
+
 <!-- ================= SECTION 3 : TECH STACK ================= -->
 <h2 align="center">Tech Stack</h2>
 
@@ -55,9 +55,9 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="15">
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **Frontend & Mobile**
 
@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **Backend**
 
@@ -82,14 +82,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </td>
-</tr>
-</table>
-
-<br>
-
-<table border="0" cellspacing="0" cellpadding="15">
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **Data Science & IA**
 
@@ -102,7 +95,14 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 </td>
-<td align="center" width="50%">
+</tr>
+</table>
+
+<br>
+
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center" width="33%">
 
 **Bases de données**
 
@@ -112,14 +112,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </td>
-</tr>
-</table>
-
-<br>
-
-<table border="0" cellspacing="0" cellpadding="15">
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **DevOps & Cloud**
 
@@ -132,7 +125,7 @@
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **Sécurité & Systèmes**
 
@@ -159,12 +152,14 @@
 
 <br>
 
+<!-- ================= SÉPARATEUR ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
+
 <!-- ================= SECTION 4 : GITHUB ANALYTICS ================= -->
 <h2 align="center">GitHub Analytics</h2>
 
 <br>
 
-<!-- Statistiques générales + Langages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ganafaye&show_icons=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&hide_border=true" height="180" alt="Stats GitHub" />
   &nbsp;&nbsp;
@@ -173,22 +168,44 @@
 
 <br>
 
-<!-- Statistiques de série (Streak) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganafaye&theme=react&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="Streak" />
 </div>
 
 <br>
 
-<!-- Carte des contributions (version fiable validée) -->
 <div align="center">
   <img src="https://ghchart.rshah.org/58A6FF/ganafaye" alt="Contributions" width="100%" />
 </div>
 
 <br>
 
-<!-- ================= SECTION 6 : FOOTER ================= -->
+<!-- ================= SÉPARATEUR ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
+
+<!-- ================= SECTION 5 : PROJET PHARE ================= -->
+<h2 align="center">Projet Phare</h2>
+
 <br>
+
+<div align="center">
+
+**Plateforme Medicare**
+
+Plateforme de suivi des patientes dans les cliniques gynéco-obstétrique.
+
+<a href="http://medicare.byethost5.com" target="_blank">
+  <img src="https://img.shields.io/badge/Voir_la_plateforme-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ================= SÉPARATEUR ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
+
+<!-- ================= SECTION 6 : FOOTER ================= -->
 <br>
 
 <h2 align="center">Citation</h2>
@@ -199,10 +216,6 @@
 
 > *"La meilleure façon de prédire l'avenir, c'est de le créer."*
 > — **Peter Drucker**
-
-<br>
-
----
 
 <br>
 
